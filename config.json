@@ -1,19 +1,19 @@
 {
-  "contactOwner": "6285743137623",
-  "ownerNumber": ["6285743137623s.whatsapp.net"],
-  "botName": "Balz Botz-MDོ",
-  "ownerName": "Balz Ofcོ",
+  "contactOwner": "6285857537269",
+  "ownerNumber": ["6285857537269.whatsapp.net"],
+  "botName": "Gilzz Botz-MDོ",
+  "ownerName": "Gilzz Jpm",
   "pathimg": "./temp/logo.jpg",
-  "footer": "Balz Botz-MDོ © Balz Ofcོ",
+  "footer": "Gilzz Botz-MDོ © Gilzz Ofcོ",
   "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
   "payment": {
     "gopay": {
-      "nomer": "085743137623",
-      "atas_nama": "balz Ofc"
+      "nomer": "085857537269",
+      "atas_nama": "Gilzzあ"
     },
     "dana": {
-      "nomer": "628817839",
-      "atas_nama": "balz YT"
+      "nomer": "6285857537269",
+      "atas_nama": "Agil"
     }
   }
 }
